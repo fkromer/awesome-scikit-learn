@@ -6,10 +6,15 @@
 
 ## Contents
 
+- [Applications](#applications)
 - [Books](#books)
 - [Documentation](#documentation)
 - [Frameworks](#frameworks)
 - [Papers](#papers)
+
+## Applications
+
+- [dash-svm](https://github.com/plotly/dash-svm) - Interactive exploration of Support Vector Machine (SVM).
 
 ## Books
 
