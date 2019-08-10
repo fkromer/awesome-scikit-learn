@@ -53,7 +53,9 @@
 - [scikit-datasets](https://pypi.org/project/scikit-datasets/) - Scikit-learn-compatible datasets.
 - [scikit-ext](https://github.com/denver1117/scikit-ext) - Various estimators and separators.
 - [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) - Deep neural networks without the learning cliff and classifiers and regressors compatible with scikit-learn.
+- [scikit-onnxruntime](https://pypi.org/project/scikit-onnxruntime/) - Scikit-learn wrapper of onnxruntime.
 - [scikit-spark](https://github.com/scikit-spark/scikit-spark) - Spark acceleration for Scikit-Learn cross validation techniques.
+- [scikit-vis](https://github.com/quantum-programmer/scikit-vis) - Adds gorgeous, easy-to-use graphics to the massively popular scikit-learn.
 - [sklearn-xarray](https://pypi.org/project/sklearn-xarray/) - Wrappers that allow the user to apply scikit-learn estimators to xarray types (tensors) without losing their labels.
 
 ## Frameworks
