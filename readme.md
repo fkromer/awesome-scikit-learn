@@ -6,11 +6,25 @@
 
 ## Contents
 
+- [Algorithms](#algorithms)
 - [Applications](#applications)
 - [Books](#books)
 - [Documentation](#documentation)
+- [Extensions](#extensions)
 - [Frameworks](#frameworks)
 - [Papers](#papers)
+
+## Algorithms
+
+> Python packages providing additional, scikit-learn API compatible implementations of algorithms.
+
+- [scikit-dda](https://pypi.org/project/scikit-dda/) - Scikit-learn-compatible Deep Discriminant Analysis.
+- [scikit-garden](https://pypi.org/project/scikit-garden/) - A garden of scikit-learn compatible trees.
+- [scikit-keras](https://pypi.org/project/scikit-keras/) - Scikit-learn-compatible Keras models.
+- [scikit-MDR](https://pypi.org/project/scikit-MDR/) - A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
+- [scikit-network](https://pypi.org/project/scikit-network/) - Network graph algorithms.
+- [scikit-optimize](https://pypi.org/project/scikit-optimize/) - Methods for sequential model-based optimization.
+- [scikit-splearn](https://pypi.org/project/scikit-splearn/) - Toolbox for spectral learning algorithms.
 
 ## Applications
 
@@ -29,6 +43,12 @@
 - [User Guide](http://scikit-learn.org/stable/user_guide.html)
 - [API Reference](http://scikit-learn.org/stable/modules/classes.html)
 - [Example Gallery](http://scikit-learn.org/stable/auto_examples/index.html)
+
+## Extensions
+
+> Python packages providing functionality to help working with scikit-learn.
+
+- [sklearn-xarray](https://pypi.org/project/sklearn-xarray/) - Wrappers that allow the user to apply scikit-learn estimators to xarray types (tensors) without losing their labels.
 
 ## Frameworks
 
