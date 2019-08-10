@@ -18,12 +18,14 @@
 
 > Python packages providing additional, scikit-learn API compatible implementations of algorithms.
 
+- [scikit-cmeans](https://pypi.org/project/scikit-cmeans/) - C-means fuzzy clustering algorithms.
 - [scikit-dda](https://pypi.org/project/scikit-dda/) - Scikit-learn-compatible Deep Discriminant Analysis.
 - [scikit-garden](https://pypi.org/project/scikit-garden/) - A garden of scikit-learn compatible trees.
 - [scikit-keras](https://pypi.org/project/scikit-keras/) - Scikit-learn-compatible Keras models.
 - [scikit-MDR](https://pypi.org/project/scikit-MDR/) - A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
 - [scikit-network](https://pypi.org/project/scikit-network/) - Network graph algorithms.
 - [scikit-optimize](https://pypi.org/project/scikit-optimize/) - Methods for sequential model-based optimization.
+- [scikit-sos](https://pypi.org/project/scikit-sos/) - Stochastic Outlier Selection (SOS) for detecting outliers.
 - [scikit-splearn](https://pypi.org/project/scikit-splearn/) - Toolbox for spectral learning algorithms.
 
 ## Applications
@@ -48,6 +50,10 @@
 
 > Python packages providing functionality to help working with scikit-learn.
 
+- [scikit-datasets](https://pypi.org/project/scikit-datasets/) - Scikit-learn-compatible datasets.
+- [scikit-ext](https://github.com/denver1117/scikit-ext) - Various estimators and separators.
+- [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) - Deep neural networks without the learning cliff and classifiers and regressors compatible with scikit-learn.
+- [scikit-spark](https://github.com/scikit-spark/scikit-spark) - Spark acceleration for Scikit-Learn cross validation techniques.
 - [sklearn-xarray](https://pypi.org/project/sklearn-xarray/) - Wrappers that allow the user to apply scikit-learn estimators to xarray types (tensors) without losing their labels.
 
 ## Frameworks
