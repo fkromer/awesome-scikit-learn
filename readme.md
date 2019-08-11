@@ -42,6 +42,7 @@
 - [Machine Learning with scikit-learn Quick Start Guide (1st edition, 2018)](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-scikit-learn-quick-start-guide).
 - [Mastering Machine Learning with Python in Six Steps (2nd edition, 2019)](https://www.apress.com/gp/book/9781484249468).
 - [Mastering Machine Learning with scikit-learn (2nd edition, 2017)](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn-second-edition).
+- [Mastering Predictive Analytics with scikit-learn and TensorFlow (1st edition, 2018)](https://www.packtpub.com/big-data-and-business-intelligence/mastering-predictive-analytics-scikit-learn-and-tensorflow).
 - [Python Machine Learning Cookbock (2nd edition, 2019)](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-cookbook-second-edition-0).
 - [scikit-learn Cookbook (2nd edition, 2017)](https://www.packtpub.com/big-data-and-business-intelligence/scikit-learn-cookbook-second-edition) - [Companion code](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition).
 
