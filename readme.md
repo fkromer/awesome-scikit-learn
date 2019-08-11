@@ -34,9 +34,11 @@
 
 ## Books
 
-- [scikit-learn Cookbook (2nd edition, 2017)](https://www.packtpub.com/big-data-and-business-intelligence/scikit-learn-cookbook-second-edition) - [Companion code](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition).
-- [Learning scikit-learn: Machine Learning in Python (2013)](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
 - [Building Machine Learning Systems with Python](https://www.packtpub.com/eu/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) - [Companion code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython).
+- [Learning scikit-learn: Machine Learning in Python (2013)](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
+- [Python Machine Learning Cookbock (2nd edition, 2019)](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-cookbook-second-edition-0).
+- [scikit-learn Cookbook (2nd edition, 2017)](https://www.packtpub.com/big-data-and-business-intelligence/scikit-learn-cookbook-second-edition) - [Companion code](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition).
+
 - [Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data](https://press.princeton.edu/titles/10159.html)
 
 ## Documentation
