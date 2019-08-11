@@ -57,6 +57,8 @@
 - [scikit-spark](https://github.com/scikit-spark/scikit-spark) - Spark acceleration for Scikit-Learn cross validation techniques.
 - [scikit-vis](https://github.com/quantum-programmer/scikit-vis) - Adds gorgeous, easy-to-use graphics to the massively popular scikit-learn.
 - [sklearn-xarray](https://pypi.org/project/sklearn-xarray/) - Wrappers that allow the user to apply scikit-learn estimators to xarray types (tensors) without losing their labels.
+- [SciPy - List of scikits](http://scikits.appspot.com/scikits) - Very incomplete list of extensions for SciPy helpful e.g. for domain specific work/integration with scikit-learn.
+- [SciPy - Topical software](https://www.scipy.org/topical-software.html) - List of software which can be helpful when working in the SciPy universe.
 
 ## Frameworks
 
