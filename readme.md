@@ -10,6 +10,7 @@
 - [Applications](#applications)
 - [Books](#books)
 - [Documentation](#documentation)
+- [Examples](#examples)
 - [Extensions](#extensions)
 - [Frameworks](#frameworks)
 - [Papers](#papers)
@@ -53,7 +54,11 @@
 - [Quick Start Tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 - [User Guide](http://scikit-learn.org/stable/user_guide.html)
 - [API Reference](http://scikit-learn.org/stable/modules/classes.html)
-- [Example Gallery](http://scikit-learn.org/stable/auto_examples/index.html)
+
+## Examples
+
+- [plotly Example Gallery](https://plot.ly/scikit-learn/) - Extensive list of examples about how to visualize data in scikit-learn workflows.
+- [scikit-learn Example Gallery](http://scikit-learn.org/stable/auto_examples/index.html) - Official scikit-learn docs examples.
 
 ## Extensions
 
