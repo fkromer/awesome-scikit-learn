@@ -24,6 +24,7 @@
 - [scikit-garden](https://pypi.org/project/scikit-garden/) - A garden of scikit-learn compatible trees.
 - [scikit-keras](https://pypi.org/project/scikit-keras/) - Scikit-learn-compatible Keras models.
 - [scikit-MDR](https://pypi.org/project/scikit-MDR/) - A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
+- [scikit-multilearn](https://pypi.org/project/scikit-multilearn/) - Multi-label classification algorithms and wrappers for other libraries.
 - [scikit-network](https://pypi.org/project/scikit-network/) - Network graph algorithms.
 - [scikit-optimize](https://pypi.org/project/scikit-optimize/) - Methods for sequential model-based optimization.
 - [scikit-sos](https://pypi.org/project/scikit-sos/) - Stochastic Outlier Selection (SOS) for detecting outliers.
