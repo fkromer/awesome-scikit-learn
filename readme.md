@@ -19,6 +19,7 @@
 
 > Python packages providing additional, scikit-learn API compatible implementations of algorithms.
 
+- [auto-sklearn](https://pypi.org/project/auto-sklearn/) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 - [scikit-cmeans](https://pypi.org/project/scikit-cmeans/) - C-means fuzzy clustering algorithms.
 - [scikit-dda](https://pypi.org/project/scikit-dda/) - Scikit-learn-compatible Deep Discriminant Analysis.
 - [scikit-garden](https://pypi.org/project/scikit-garden/) - A garden of scikit-learn compatible trees.
