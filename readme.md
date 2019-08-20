@@ -115,6 +115,10 @@
 
 - [Using Django, Docker and Scikit-learn to bootstrap your Machine Learning Project (PythonDay 2017 Mexico)](https://www.youtube.com/watch?v=SQAwzW0iQ6o)
 
+### 2016
+
+- [Learning scikit learn - An Introduction to Machine Learning in Python (PyData Chicago 2016)](https://www.youtube.com/watch?v=9fOWryQq9J8)
+
 ### 2015
 
 - [A Thorough Machine Learning Pipeline via Scikit Learn (PyData Dallas 2015)](https://www.youtube.com/watch?v=1J7-p3ueQk0)
