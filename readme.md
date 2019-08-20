@@ -104,6 +104,7 @@
 
 ### 2019
 
+- [Hello World of Machine Learning Using Scikit Learn (PyCon 2019)](https://www.youtube.com/watch?v=bCDcI8SdjD8)
 - [Scikit-learn, wrapping your head around machine learning (PyCon 2019)](https://www.youtube.com/watch?v=kTdt0P0e3Qc)
 
 ### 2018
@@ -113,6 +114,10 @@
 
 ### 2017
 
+- Machine Learning with scikit learn (SciPy 2017)
+  - [Part 1/2](https://www.youtube.com/watch?v=2kT6QOVSgSg)
+  - [Part 2/2](https://www.youtube.com/watch?v=WLYzSas511I)
+  - [Companion code](https://github.com/amueller/scipy-2017-sklearn)
 - [Using Django, Docker and Scikit-learn to bootstrap your Machine Learning Project (PythonDay 2017 Mexico)](https://www.youtube.com/watch?v=SQAwzW0iQ6o)
 
 ### 2016
