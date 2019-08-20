@@ -128,3 +128,11 @@
 ### 2014
 
 - [Advanced Scikit-learn (PyData NYC 2014)](https://www.youtube.com/watch?v=ZL77pbWBZQA)
+
+### 2013
+
+- Intro to scikit-learn (SciPy 2013)
+  - [Part 1/3](https://www.youtube.com/watch?v=r4bRUvvlaBw)
+  - [Part 2/3](https://www.youtube.com/watch?v=hlaMiXCRxB0)
+  - [Part 3/3](https://www.youtube.com/watch?v=XS4TIGe7MaU)
+  - [Companion code](https://github.com/jakevdp/sklearn_scipy2013)
