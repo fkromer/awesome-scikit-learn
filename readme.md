@@ -14,6 +14,7 @@
 - [Extensions](#extensions)
 - [Frameworks](#frameworks)
 - [Papers](#papers)
+- [Presentations](#presentations)
 
 ## Algorithms
 
@@ -98,3 +99,28 @@
 
 - [Scikit-learn: Machine Learning in Python (2011)](http://jmlr.org/papers/v12/pedregosa11a.html)
 - [API design for machine learning software: experiences from the scikit-learn project](https://arxiv.org/abs/1309.0238)
+
+## Presentations
+
+### 2019
+
+- [Scikit-learn, wrapping your head around machine learning (PyCon 2019)](https://www.youtube.com/watch?v=kTdt0P0e3Qc)
+
+### 2018
+
+- [Machine Learning with Scikit-Learn, Part 1 (SciPy 2018 Tutorial)](https://www.youtube.com/watch?v=4PXAztQtoTg)
+- [Machine Learning with scikit-learn, Part 2 (SciPy 2018 Tutorial)](https://www.youtube.com/watch?v=gK43gtGh49o)
+
+### 2017
+
+- [Using Django, Docker and Scikit-learn to bootstrap your Machine Learning Project (PythonDay 2017 Mexico)](https://www.youtube.com/watch?v=SQAwzW0iQ6o)
+
+### 2015
+
+- [A Thorough Machine Learning Pipeline via Scikit Learn (PyData Dallas 2015)](https://www.youtube.com/watch?v=1J7-p3ueQk0)
+- [Machine Learning with Scikit-Learn (PyData NYC 2015)](https://www.youtube.com/watch?v=nJfxGY2dilY)
+- [Machine Learning with Scikit Learn (PyData Seattle 2015)](https://www.youtube.com/watch?v=HC0J_SPm9co) - [Slides](https://github.com/jakevdp/sklearn_pydata2015).
+
+### 2014
+
+- [Advanced Scikit-learn (PyData NYC 2014)](https://www.youtube.com/watch?v=ZL77pbWBZQA)
