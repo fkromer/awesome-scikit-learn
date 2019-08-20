@@ -141,3 +141,4 @@
   - [Part 2/3](https://www.youtube.com/watch?v=hlaMiXCRxB0)
   - [Part 3/3](https://www.youtube.com/watch?v=XS4TIGe7MaU)
   - [Companion code](https://github.com/jakevdp/sklearn_scipy2013)
+- [Data Agnosticism: Feature Engineering Without Domain Expertise (SciPy 2013)](https://www.youtube.com/watch?v=bL4b1sGnILU)
