@@ -109,6 +109,7 @@
 
 ### 2018
 
+- [Software Library APIs: Lessons Learned from scikit-learn (PyCon Cleveland 2018)](https://www.youtube.com/watch?v=WCEXYvv-T5Q)
 - [Machine Learning with Scikit-Learn, Part 1 (SciPy 2018 Tutorial)](https://www.youtube.com/watch?v=4PXAztQtoTg)
 - [Machine Learning with scikit-learn, Part 2 (SciPy 2018 Tutorial)](https://www.youtube.com/watch?v=gK43gtGh49o)
 
