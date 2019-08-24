@@ -13,6 +13,7 @@
 - [Examples](#examples)
 - [Extensions](#extensions)
 - [Frameworks](#frameworks)
+- [MOOCs](#moocs)
 - [Papers](#papers)
 - [Presentations](#presentations)
 
@@ -94,6 +95,11 @@
   - [Matplotlib](https://matplotlib.org/) - Comprehensive 2D Plotting.
   - [numpy](https://numpy.org/) - Base N-dimensional array package.
   - [pandas](https://pandas.pydata.org/) - Data structures & analysis.
+
+## MOOCs
+
+- [Feature Engineering for Machine Learning (udemy.com)](https://www.udemy.com/feature-engineering-for-machine-learning/)
+- [Feature Selection for Machine Learning (udemy.com)](https://www.udemy.com/feature-selection-for-machine-learning/)
 
 ## Papers
 
