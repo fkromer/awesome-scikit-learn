@@ -71,6 +71,7 @@
 - [scikit-datasets](https://pypi.org/project/scikit-datasets/) - Scikit-learn-compatible datasets.
 - [scikit-ext](https://github.com/denver1117/scikit-ext) - Various estimators and separators.
 - [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) - Deep neural networks without the learning cliff and classifiers and regressors compatible with scikit-learn.
+- [sklearn-onnx](http://onnx.ai/sklearn-onnx/) - Convert your scikit-learn model into ONNX.
 - [scikit-onnxruntime](https://pypi.org/project/scikit-onnxruntime/) - Scikit-learn wrapper of onnxruntime.
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot/) - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
