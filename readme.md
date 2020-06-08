@@ -75,6 +75,7 @@
 - [scikit-onnxruntime](https://pypi.org/project/scikit-onnxruntime/) - Scikit-learn wrapper of onnxruntime.
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot/) - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
+- [sklearn-pmml-model](https://github.com/iamDecode/sklearn-pmml-model) - A library to parse PMML models into Scikit-learn estimators.
 - [sklearn-porter](https://github.com/nok/sklearn-porter/) - Transpile trained scikit-learn models to C, Java, Javascript and others.
 - [scikit-spark](https://github.com/scikit-spark/scikit-spark) - Spark acceleration for Scikit-Learn cross validation techniques.
 - [scikit-vis](https://github.com/quantum-programmer/scikit-vis) - Adds gorgeous, easy-to-use graphics to the massively popular scikit-learn.
