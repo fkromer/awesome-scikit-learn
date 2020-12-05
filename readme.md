@@ -69,6 +69,7 @@
 > Python packages providing functionality to help working with scikit-learn.
 
 - [scikit-datasets](https://pypi.org/project/scikit-datasets/) - Scikit-learn-compatible datasets.
+- [sklearn-deap](https://github.com/rsteca/sklearn-deap) - Use evolutionary algorithms instead of gridsearch in scikit-learn.
 - [scikit-ext](https://github.com/denver1117/scikit-ext) - Various estimators and separators.
 - [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) - Deep neural networks without the learning cliff and classifiers and regressors compatible with scikit-learn.
 - [sklearn-onnx](http://onnx.ai/sklearn-onnx/) - Convert your scikit-learn model into ONNX.
