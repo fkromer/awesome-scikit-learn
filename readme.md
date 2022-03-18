@@ -63,6 +63,7 @@
 
 - [plotly Example Gallery](https://plot.ly/scikit-learn/) - Extensive list of examples about how to visualize data in scikit-learn workflows.
 - [scikit-learn Example Gallery](http://scikit-learn.org/stable/auto_examples/index.html) - Official scikit-learn docs examples.
+- [Run Scikit Federated](https://github.com/adap/flower/tree/main/examples/sklearn-logreg-mnist) - Using [Flower](https://flower.dev/) for federated learning and run a scikit logistic federated. 
 
 ## Extensions
 
